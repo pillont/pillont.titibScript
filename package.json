@@ -1,0 +1,28 @@
+{
+  "name": "pillont.titibscript",
+  "version": "1.1.0",
+  "description": "tools for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillont/pillont.titibScript.git"
+  },
+  "keywords": [
+    "tools",
+    "typescript"
+  ],
+  "author": "pillont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pillont/pillont.titibScript/issues"
+  },
+  "homepage": "https://github.com/pillont/pillont.titibScript#readme",
+  "dependencies": {
+    "rxjs": "^6.6.6",
+    "typescript": "^4.2.2"
+  }
+}
